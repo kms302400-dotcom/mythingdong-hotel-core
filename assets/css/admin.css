@@ -1,0 +1,27 @@
+.mtd-admin-wrap .mtd-admin-panel {
+    background: #fff;
+    border: 1px solid #dcdcde;
+    margin: 16px 0 24px;
+    padding: 16px 20px 4px;
+    max-width: 960px;
+}
+
+.mtd-admin-table td,
+.mtd-admin-table th {
+    vertical-align: middle;
+}
+
+.mtd-inline-form {
+    display: inline-block;
+    margin-left: 6px;
+}
+
+.mtd-token-code {
+    display: inline-block;
+    font-size: 13px;
+    margin-bottom: 8px;
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    padding: 8px 10px;
+}
+
